@@ -1,3 +1,13 @@
+/*
+Instrucciones:
+
+- Poner los nombres de todos los participantes.
+- Poner los nombres de los directorios que servirán como el final de la URL.
+- Copiar todo en la consola de la Dev Tools de Chrome.
+- Editar los directorios y los nombres como se describe en el output.
+
+*/
+
 let participants = [
 	"Carlos",
 	"Arantxa",
@@ -11,15 +21,15 @@ let participants = [
 ];
 
 let hashes = [
-	"campana-sobre-campana",
-	"y-sobre-campana-una",
-	"asomate-a-la-ventana",
-	"veras-a-la-niña",
-	"en-la-cuna",
-	"belen",
-	"campanas-de-belen",
-	"que-los-angeles-tocan",
-	"que-nueva-nos-traeis"
+	"hacia-belen",
+	"va-una-burra",
+	"rin-rin",
+	"yo-me-remendaba",
+	"yo-me-remende",
+	"yo-me-eche",
+	"un-remiendo",
+	"yo-me-lo-quite",
+	"cargada-de-chocolate"
 ];
 
 // -----------------------------------------
